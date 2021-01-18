@@ -1,0 +1,3 @@
+/home/taxxon/CLionProjects/vulkan3DStudio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/taxxon/CLionProjects/vulkan3DStudio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/taxxon/CLionProjects/vulkan3DStudio/cmake-build-debug/CMakeFiles/vulkan3DStudio.dir
