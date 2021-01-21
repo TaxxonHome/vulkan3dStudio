@@ -1,0 +1,8 @@
+//
+// Created by taxxon on 2021-01-21.
+//
+
+#ifndef VULKAN3DSTUDIO_STUDIO_H
+#define VULKAN3DSTUDIO_STUDIO_H
+
+#endif //VULKAN3DSTUDIO_STUDIO_H

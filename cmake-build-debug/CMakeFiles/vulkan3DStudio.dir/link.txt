@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/vulkan3DStudio.dir/main.cpp.o  -o vulkan3DStudio 
